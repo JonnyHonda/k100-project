@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Got bored and made me a little mounting bracket to hold a couple of usb power outlets.
+title: "Got bored and made me a little mounting bracket to hold a couple of usb power outlets."
 date: 2016-08-22 
 ---
 Got bored and made me a little mounting bracket to hold a couple of usb power outlets.﻿

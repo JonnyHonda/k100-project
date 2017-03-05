@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: ""
 date: 2016-08-22 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looks better already
+title: "Looks better already"
 date: 2016-08-22 
 ---
 Looks better already﻿

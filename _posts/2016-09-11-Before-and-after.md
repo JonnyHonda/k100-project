@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Before and after
+title: "Before and after"
 date: 2016-09-11 
 ---
 Before and after﻿

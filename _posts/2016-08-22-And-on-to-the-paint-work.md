@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And on to the paint work
+title: "And on to the paint work"
 date: 2016-08-22 
 ---
 And on to the paint work﻿

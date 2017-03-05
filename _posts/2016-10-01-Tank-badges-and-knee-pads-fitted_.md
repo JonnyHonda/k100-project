@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tank badges and knee pads fitted.
+title: "Tank badges and knee pads fitted."
 date: 2016-10-01 
 ---
 Tank badges and knee pads fitted.﻿

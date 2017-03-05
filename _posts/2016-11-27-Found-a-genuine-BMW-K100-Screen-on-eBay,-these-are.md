@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Found a genuine BMW K100 Screen on eBay, these are like the fabled Rocking Horse poo.
+title: "Found a genuine BMW K100 Screen on eBay, these are like the fabled Rocking Horse poo.
 
-Fitted and it's...
+Fitted and it's..."
 date: 2016-11-27 
 ---
 Found a genuine BMW K100 Screen on eBay, these are like the fabled Rocking Horse poo.<br /><br />Fitted and it&#39;s fantastic.﻿

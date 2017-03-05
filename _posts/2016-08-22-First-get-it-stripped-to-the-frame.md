@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First get it stripped to the frame
+title: "First get it stripped to the frame"
 date: 2016-08-22 
 ---
 First get it stripped to the frame﻿

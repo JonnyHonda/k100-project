@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doesn't that look mighty fine?
+title: "Doesn't that look mighty fine?"
 date: 2016-09-29 
 ---
 Doesn&#39;t that look mighty fine?﻿

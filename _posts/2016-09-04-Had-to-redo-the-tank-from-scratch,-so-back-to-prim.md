@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Had to redo the tank from scratch, so back to primer, silver, tango orange and finally lacquered
+title: "Had to redo the tank from scratch, so back to primer, silver, tango orange and finally lacquered"
 date: 2016-09-04 
 ---
 Had to redo the tank from scratch, so back to primer, silver, tango orange and finally lacquered﻿

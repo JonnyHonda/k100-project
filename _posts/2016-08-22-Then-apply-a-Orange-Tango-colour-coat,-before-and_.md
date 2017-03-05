@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Then apply a Orange Tango colour coat, before and after picture included﻿
+title: "Then apply a Orange Tango colour coat, before and after picture included﻿"
 date: 2016-08-22 
 ---
 Then apply a Orange Tango colour coat, before and after picture included﻿

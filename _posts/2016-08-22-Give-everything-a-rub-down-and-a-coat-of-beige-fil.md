@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Give everything a rub down and a coat of beige filler primer
+title: "Give everything a rub down and a coat of beige filler primer"
 date: 2016-08-22 
 ---
 Give everything a rub down and a coat of beige filler primer﻿

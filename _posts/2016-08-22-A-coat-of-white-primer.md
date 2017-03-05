@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A coat of white primer
+title: "A coat of white primer"
 date: 2016-08-22 
 ---
 A coat of white primer﻿

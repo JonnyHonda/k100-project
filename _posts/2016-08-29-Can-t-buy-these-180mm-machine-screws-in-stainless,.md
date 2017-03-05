@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't buy these 180mm machine screws in stainless, but I think they look OK hand polished.
+title: "Can't buy these 180mm machine screws in stainless, but I think they look OK hand polished."
 date: 2016-08-29 
 ---
 Can&#39;t buy these 180mm machine screws in stainless, but I think they look OK hand polished.﻿
