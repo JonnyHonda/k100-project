@@ -18,6 +18,6 @@ images:
 ---
 Found a genuine BMW K100 Screen on eBay, these are like the fabled Rocking Horse poo.<br /><br />Fitted and it&#39;s fantastic.﻿
 
-
+{% for image in page.images %}
 * ![image.title](image.image_path)
-
+{% endfor %}
