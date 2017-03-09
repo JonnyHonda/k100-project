@@ -95,8 +95,9 @@ navigation_header:
   Home: /k100-project
   Elements: /k100-project/elements/
   Blog: /k100-project/blog/
-  Categories: /k100-project/categories/
-  Search: /k100-project/search/
+  Gallery: /k100-project/photo-gallery/
+  # Categories: /k100-project/categories/
+  # Search: /k100-project/search/
 
 navigation_footer:
   Mechanic John Burrin: https://github.com/JonnyHonda/k100-project
