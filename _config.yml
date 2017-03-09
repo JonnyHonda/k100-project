@@ -102,12 +102,12 @@ navigation_header:
 navigation_footer:
   "Mechanic: John Burrin": https://github.com/JonnyHonda/k100-project
 
-  social_links:
-  Twitter: https://twitter.com/
-  LinkedIn: https://www.linkedin.com/in/
-  Google+: https://plus.google.com/
-  GitHub: https://github.com/
-  link: https://darn.es
+  #social_links:
+  #Twitter: https://twitter.com/
+  #LinkedIn: https://www.linkedin.com/in/
+  #Google+: https://plus.google.com/
+  #GitHub: https://github.com/
+  #link: https://darn.es
 
 sharing_links:
   Twitter: "#1DA1F2"
