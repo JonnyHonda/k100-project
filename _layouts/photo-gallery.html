@@ -17,19 +17,17 @@ images:
 
 <main class="main  container">
 
-	<article class="article  article--page  content  typeset">
+	<article class="article  article--page  content  content--full  typeset">
 
     <h1>{{ page.title }}</h1>
 
-    <ul class="photo-gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
-</ul>
+        <ul class="photo-gallery">
+        {% for image in page.images %}
+            <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+        {% endfor %}
+        </ul>
 
   </article>
-
-  {% include site-aside.html %}
 
 </main>
 
