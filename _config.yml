@@ -82,7 +82,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "BMW K100 Rebuild Project" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/k100-project/assets/placeholder-logo.JPG" # Site logo, also used in jekyll-seo-tag
 description: "My ground up rebuild of a tatty old BMW K100 into a thing of beauty" # Site description and default description, also used in jekyll-seo-tag
 url: "https://jonnyhonda.github.io/k100-project/" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/JonnyHonda/k100-project"
