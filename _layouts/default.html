@@ -1,33 +1,33 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-    
-    <link rel="stylesheet" type="text/css" href="/k100-project/css/main.css">
-  
-  </head>
+<html lang="en-GB">
+	<head>
+		<!-- General meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
+		{% if page.indexing == false %}
+			<meta name="robots" content="noindex">
+		{% endif %}
 
-  <body>
-    <nav>
-<ul>
-<li><a href="/k100-project/">Home</a></li>
-<li><a href="/k100-project/about/">About</a></li>
-<li><a href="/k100-project/blog/">Blog</a></li>
-</ul>
-    </nav>
-<div class="container">
+		{% if page.collectionpage %}
+			{% seo title=false %}
 
-  {{ content }}
+			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+			<title>{{ collectiondata.title }} - {{ site.title }}</title>
+			<meta property="og:title" content="{{ collectiondata.title }}">
+			<meta name="description" content="{{ collectiondata.description }}">
+			<meta property="og:description" content="{{ collectiondata.description }}">
+		{% else %}
+			{% seo %}
+		{% endif %}
 
-</div>
-  
-  <footer>
-   <ul>
-   <li><a href="mailto:">email</a></li>
-   <li><a href="https://github.com/">github.com/</a></li>
-   </ul>
-  </footer>
-  </body>
+    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
+		{% include site-favicons.html %}
+	</head>
+	<body class="layout-{{ page.layout }}  {{ page.title | slugify }}">
+		{% include site-icons.svg %}
+
+		{{ content }}
+
+	</body>
 </html>
