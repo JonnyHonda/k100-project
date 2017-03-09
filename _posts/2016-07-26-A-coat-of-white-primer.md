@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A coat of white primer"
-date: 2016-08-22 
+date: 2016-07-26 
 images:
   - image_path: /k100-project/Photos/22-08-2016/20160726-171206-28459255102-o.jpg
     title: 20160726-171206-28459255102-o.jpg
