@@ -100,7 +100,7 @@ navigation_header:
   # Search: /k100-project/search/
 
 navigation_footer:
-  Mechanic John Burrin: https://github.com/JonnyHonda/k100-project
+  "Mechanic: John Burrin": https://github.com/JonnyHonda/k100-project
 
   social_links:
   Twitter: https://twitter.com/
