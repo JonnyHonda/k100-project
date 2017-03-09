@@ -13,7 +13,7 @@ layout: default
     {{ content }}
         <ul class="photo-gallery">
         {% for image in page.images %}
-            <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+            <li><img src="{{ page.image.image_path }}" alt="{{ page.image.title}}"/></li>
         {% endfor %}
         </ul>
 		
