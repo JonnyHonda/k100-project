@@ -92,11 +92,11 @@ avatarurl: "https://s.gravatar.com/avatar/1e95d3fa195ff0ac7c23f5658a738587?s=80"
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
+  Home: /k100-project
+  Elements: /k100-project/elements/
+  Blog: /k100-project/blog/
+  Categories: /k100-project/categories/
+  Search: /k100-project/search/
 
 navigation_footer:
   Mechanic John Burrin: https://github.com/JonnyHonda/k100-project
