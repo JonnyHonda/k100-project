@@ -96,7 +96,7 @@ navigation_header:
   # Elements: /k100-project/elements/
   Blog: /k100-project/blog/
   Gallery: /k100-project/photo-gallery/
-  # Categories: /k100-project/categories/
+  Categories: /k100-project/categories/
   # Search: /k100-project/search/
 
 navigation_footer:
