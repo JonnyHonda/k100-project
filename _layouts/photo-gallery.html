@@ -1,47 +1,33 @@
 ---
 layout: default
 images:
-  - image_path: /images/cakes/apple-pie.jpg
+  - image_path: /k100-project/01-10-2016/01_10_2016-1.jpg
     title: Apple Pie
-  - image_path: /images/cakes/birthday-cake.jpg
+  - image_path: /k100-project/01-10-2016/01_10_2016-2.jpg
     title: Birthday Cake
-  - image_path: /images/cakes/black-forest.jpg
+  - image_path: /k100-project/01-10-2016/01_10_2016-3.jpg
     title: Black Forest
-  - image_path: /images/cakes/brownie.jpg
+  - image_path: /k100-project/01-10-2016/01_10_2016-4.jpg
     title: Brownie
-  - image_path: /images/cakes/cheese-cake.jpg
+  - image_path: /k100-project/01-10-2016/01_10_2016-10.jpg
     title: Cheese Cake
-  - image_path: /images/cakes/chocolate-cake.jpg
-    title: Chocolate Cake
-  - image_path: /images/cakes/fruit-cake.jpg
-    title: Fruit Cake
-  - image_path: /images/cakes/lamington.jpg
-    title: Lamington
-  - image_path: /images/cakes/lemon-cake.jpg
-    title: Lemon Cake
 ---
 
 {% include site-header.html %}
 
 <main class="main  container">
 
-	<div class="content">
+	<article class="article  article--page  content  typeset">
 
-    <article class="article  article--page  typeset">
+    <h1>{{ page.title }}</h1>
 
-			<h1>{{ page.title }}</h1>
-
-			<ul class="photo-gallery">
+    <ul class="photo-gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
 
-    </article>
-
-		{% include site-search.html %}
-
-  </div>
+  </article>
 
   {% include site-aside.html %}
 
