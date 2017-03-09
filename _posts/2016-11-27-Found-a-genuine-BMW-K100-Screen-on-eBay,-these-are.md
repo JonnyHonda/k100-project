@@ -5,7 +5,7 @@ date: 2016-11-27
 images:
   - image_path: /k100-project/Photos/27-11-2016/27-11-2016-1.jpg
     title: 27-11-2016-1.jpg
-  - image_path: /k100-project/Photos/27-11-2016/27-11-2016-2.jpg)
+  - image_path: /k100-project/Photos/27-11-2016/27-11-2016-2.jpg
     title: 27-11-2016-2.jpg
   - image_path: /k100-project/Photos/27-11-2016/27-11-2016-3.jpg
     title: 27-11-2016-3.jpg
