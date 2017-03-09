@@ -17,8 +17,8 @@ Complete strip of bike down to the frame and rebuild and where possible replace 
         * Replace clutch assembly bolts
         * Replace clutch o-ring
         * Overhaul water/oil pump replacing both oil seal and mechanical seal.
-        * Paint cyclinder head and crank case.
-        * Polish cyclinder head and crank case bolts.
+        * Paint cylinder head and crank case.
+        * Polish cylinder head and crank case bolts.
 
         * Clean and paint gearbox, swingarm and bevel box.
         * Replace clutch arm boot.
@@ -32,7 +32,7 @@ Complete strip of bike down to the frame and rebuild and where possible replace 
         * Overhaul front and rear brakes with OEM rebuild kit which included seals and dust seals.
         * Repaint calipers.
         * Todo: replace all brake hoses with stainless good ridge type
-        * Todo: Replace bleed nippels and brake pins with stainless steel.
+        * Todo: Replace bleed nipples and brake pins with stainless steel.
         * Replace rider footrest rubbers.
         * Replace rider footrest pins with stainless steel ones.
         * Todo: Replace pillion footrest pins with stainless steel ones.
@@ -53,7 +53,7 @@ Complete strip of bike down to the frame and rebuild and where possible replace 
         * Todo: Replace handlebar grips
         * Replace side panel mounting rubber grommets
         * Replace protective rubber pad at rear of tank
-        * Overhaul rear brake master cynlinder using OEM rebuild kit.
+        * Overhaul rear brake master cylinder using OEM rebuild kit.
 
         * Re-tape wire loom replacing the old cloth tape with new. Also correct any electrical tape repairs with solder and heatshrink and then cloth tape.
         * Source and replace locks so that ignition, tank and seat locks are the same, now also have 3 keys.
