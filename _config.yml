@@ -81,14 +81,14 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "BMW K100 Rebuild Project" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
-disqus: "alembic-1"
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+description: "My ground up rebuild of a tatty old BMW K100 into a thing of beauty" # Site description and default description, also used in jekyll-seo-tag
+url: "https://jonnyhonda.github.io/k100-project/" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/JonnyHonda/k100-project"
+email: ""
+# disqus: "alembic-1"
+avatarurl: "https://s.gravatar.com/avatar/1e95d3fa195ff0ac7c23f5658a738587?s=80" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
@@ -97,19 +97,18 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
-navigation_footer:
-  Created by David Darnes: https://darn.es
+# navigation_footer:
+#  Created by David Darnes: https://darn.es
 
-social_links:
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+# social_links:
+#  Twitter: https://twitter.com/DavidDarnes
+#  LinkedIn: https://www.linkedin.com/in/daviddarnes
+#  Google+: https://plus.google.com/+DavidDarnes
+#  GitHub: https://github.com/daviddarnes
+#  link: https://darn.es
 
-sharing_links:
+ sharing_links:
   Twitter: "#1DA1F2"
   facebook: "#3B5998"
   Google+: "#DC4E41"
