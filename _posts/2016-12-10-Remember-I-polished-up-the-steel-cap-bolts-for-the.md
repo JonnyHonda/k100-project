@@ -7,4 +7,3 @@ Remember I polished up the steel cap bolts for the rocker and crank covers? No, 
 ![2016%2B-%2B1](/k100-project/Photos/10-12-2016/2016%2B-%2B1)
 ![2016%2B-%2B2](/k100-project/Photos/10-12-2016/2016%2B-%2B2)
 ![2016%2B-%2B4](/k100-project/Photos/10-12-2016/2016%2B-%2B4)
-![20161210_091102.mp4](/k100-project/Photos/10-12-2016/20161210_091102.mp4)
